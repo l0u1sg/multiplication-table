@@ -1,0 +1,16 @@
+{
+  "name": "multiplication-table",
+  "version": "1.0.0",
+  "description": "A simple application powered by Electron to review and learn the multiplication tables",
+  "main": "index.js",
+  "repository": "https://github.com/l0u1sg/multiplication-table.git",
+  "author": "Louis Gallet <louis.gallet@tumo.world>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "private": false,
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
